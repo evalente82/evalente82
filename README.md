@@ -8,14 +8,14 @@ Atualmente, estou aprofundando minha especialização através de uma <strong>p�
 🚀 Minhas Principais Competências
 <p align="left">
 <a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dcs,dotnet,azure,aws,docker,sql,git,javascript,php,laravel,vue,react%26perline%3D12" />
+<img src="https://www.google.com/url?sa=E&source=gmail&q=https://skillicons.dev/icons?i=cs,dotnet,azure,aws,docker,sql,git,javascript,php,laravel,vue,react%26perline=12" />
 </a>
 </p>
 
 📊 Minhas Estatísticas no GitHub
 <p align="center">
 <a href="https://github.com/evalente82">
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Devalente82%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
+<img height="180em" src="https://www.google.com/url?sa=E&source=gmail&q=https://github-readme-stats.vercel.app/api?username=evalente82%26show_icons=true%26theme=tokyonight%26include_all_commits=true%26count_private=true"/>
 <img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Devalente82%26layout%3Dcompact%26langs_count%3D7%26theme%3Dtokyonight"/>
 </a>
 </p>
