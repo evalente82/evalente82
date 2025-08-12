@@ -4,7 +4,7 @@ Olá, eu sou o Endrigo Valente! 👋
 
 🚀 Minhas Principais Competências
 
-<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,sqlserver,git,javascript,react&perline=12" /> </a> </p>
+<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,postgres,git,javascript,react&perline=12" /> </a> </p>
 
 📊 Minhas Estatísticas no GitHub
 
